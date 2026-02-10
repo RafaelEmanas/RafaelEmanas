@@ -8,7 +8,7 @@
 **Know a bit more about me:**
 
 - 👨🏽‍💻 I am always working on a programming project;
-- ⚽ Fun-Fact: I root for Club de Regatas Vasco da Gama football team;
+- ⚽ Fun-Fact: I love devops and study it om my free time :D;
 - 📫 How to reach me: rafael.emanueldv.pro@gmail.com;
 - 💬 Feel free to talk to me whenever you want;
 
