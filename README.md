@@ -7,10 +7,10 @@
 
 **Know a bit more about me:**
 
-- 👨🏽‍💻 I am always working on a programming project;
-- ⚽ Fun-Fact: I love devops and study it om my free time :D;
-- 📫 How to reach me: rafael.emanueldv.pro@gmail.com;
-- 💬 Feel free to talk to me whenever you want;
+- 👨🏽‍💻 I am always working on a programming project
+- :mechanical_arm: About me: I love everything related to backend
+- 📫 How to reach me: rafael.emanueldv.pro@gmail.com
+- 💬 Feel free to talk to me whenever you want
 
 **Languages and Tools:** 
 
