@@ -30,7 +30,7 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg"></code>
     <br />
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21~bgwhite.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></code>
   </div>
 </div>
